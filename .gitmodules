@@ -1,0 +1,6 @@
+[submodule "star-1"]
+	path = star-1
+	url = ./star-1
+[submodule "star-2"]
+	path = star-2
+	url = ./star-2
